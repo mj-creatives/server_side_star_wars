@@ -19,7 +19,7 @@ function Hero() {
       <div className="lg:flex-1 relative w-full h-[50vh] justify-center">
         <Image
           src="/anime.png"
-          alt="anime"
+          alt="starwars"
           fill
           className="object-contain"
         />
